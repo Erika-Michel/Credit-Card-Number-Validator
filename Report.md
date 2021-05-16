@@ -84,4 +84,3 @@
 * Java 11.0.11
 * IntelliJ IDEA Community Edition 2021.1.1
 * [Удаленный репозиторий проекта](https://github.com/Erika-Michel/Credit-Card-Number-Validator.git)
-  [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html/)
